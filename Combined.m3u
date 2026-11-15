@@ -1,80 +1,164 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Sony Entertainment Television HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Sony Live",Sony Entertainment Television HD
-https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1794737439~acl=/*~id=84062773889577299258218835267010~hmac=2f29a6dcb201b539f6535c31b24e49b7ceea87b344377a177db58df60356defc
+https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1794745008~acl=/*~id=44453595857604037581434819442978~hmac=1c3bd2122a36dfd3131b76515e4a0dcd995d99a29f448f7fc8cf021e935960e8
 #EXTINF:-1 tvg-name="Sony SAB HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Sony Live",Sony SAB HD
-https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1794737439~acl=/*~id=84062773889577299258218835267010~hmac=2f29a6dcb201b539f6535c31b24e49b7ceea87b344377a177db58df60356defc
+https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1794745008~acl=/*~id=44453595857604037581434819442978~hmac=1c3bd2122a36dfd3131b76515e4a0dcd995d99a29f448f7fc8cf021e935960e8
 #EXTINF:-1 tvg-name="Sony PAL" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Sony Live",Sony PAL
-https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1794737439~acl=/*~id=84062773889577299258218835267010~hmac=2f29a6dcb201b539f6535c31b24e49b7ceea87b344377a177db58df60356defc
+https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1794745008~acl=/*~id=44453595857604037581434819442978~hmac=1c3bd2122a36dfd3131b76515e4a0dcd995d99a29f448f7fc8cf021e935960e8
 #EXTINF:-1 tvg-name="Sony WAH" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Sony Live",Sony WAH
-https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1794737439~acl=/*~id=84062773889577299258218835267010~hmac=2f29a6dcb201b539f6535c31b24e49b7ceea87b344377a177db58df60356defc
+https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1794745008~acl=/*~id=44453595857604037581434819442978~hmac=1c3bd2122a36dfd3131b76515e4a0dcd995d99a29f448f7fc8cf021e935960e8
 #EXTINF:-1 tvg-name="Sony MAX" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="Sony Live",Sony MAX
-https://dishmt.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1794737439~acl=/*~id=84062773889577299258218835267010~hmac=2f29a6dcb201b539f6535c31b24e49b7ceea87b344377a177db58df60356defc
+https://dishmt.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1794745008~acl=/*~id=44453595857604037581434819442978~hmac=1c3bd2122a36dfd3131b76515e4a0dcd995d99a29f448f7fc8cf021e935960e8
 #EXTINF:-1 tvg-name="Sony MAX HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Sony Live",Sony MAX HD
-https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1794737439~acl=/*~id=84062773889577299258218835267010~hmac=2f29a6dcb201b539f6535c31b24e49b7ceea87b344377a177db58df60356defc
+https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1794745008~acl=/*~id=44453595857604037581434819442978~hmac=1c3bd2122a36dfd3131b76515e4a0dcd995d99a29f448f7fc8cf021e935960e8
 #EXTINF:-1 tvg-name="Sony MAX 2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Sony Live",Sony MAX 2
-https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=exp=1794737439~acl=/*~id=84062773889577299258218835267010~hmac=2f29a6dcb201b539f6535c31b24e49b7ceea87b344377a177db58df60356defc
+https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=exp=1794745008~acl=/*~id=44453595857604037581434819442978~hmac=1c3bd2122a36dfd3131b76515e4a0dcd995d99a29f448f7fc8cf021e935960e8
 #EXTINF:-1 tvg-name="Sony PIX HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Sony Live",Sony PIX HD
-https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1794737439~acl=/*~id=84062773889577299258218835267010~hmac=2f29a6dcb201b539f6535c31b24e49b7ceea87b344377a177db58df60356defc
+https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1794745008~acl=/*~id=44453595857604037581434819442978~hmac=1c3bd2122a36dfd3131b76515e4a0dcd995d99a29f448f7fc8cf021e935960e8
 #EXTINF:-1 tvg-name="Sony BBC Earth HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Sony Live",Sony BBC Earth HD
-https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1794737439~acl=/*~id=84062773889577299258218835267010~hmac=2f29a6dcb201b539f6535c31b24e49b7ceea87b344377a177db58df60356defc
+https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1794745008~acl=/*~id=44453595857604037581434819442978~hmac=1c3bd2122a36dfd3131b76515e4a0dcd995d99a29f448f7fc8cf021e935960e8
 #EXTINF:-1 tvg-name="Sony YAY !!" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/12_259.png" group-title="Sony Live",Sony YAY !!
-https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1794737439~acl=/*~id=84062773889577299258218835267010~hmac=2f29a6dcb201b539f6535c31b24e49b7ceea87b344377a177db58df60356defc
+https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1794745008~acl=/*~id=44453595857604037581434819442978~hmac=1c3bd2122a36dfd3131b76515e4a0dcd995d99a29f448f7fc8cf021e935960e8
 #EXTINF:-1 tvg-name="Sony Marathi !!" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Sony Live",Sony Marathi !!
-https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1794737439~acl=/*~id=84062773889577299258218835267010~hmac=2f29a6dcb201b539f6535c31b24e49b7ceea87b344377a177db58df60356defc
+https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1794745008~acl=/*~id=44453595857604037581434819442978~hmac=1c3bd2122a36dfd3131b76515e4a0dcd995d99a29f448f7fc8cf021e935960e8
 #EXTINF:-1 tvg-name="Sony AATH" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="Sony Live",Sony AATH
-https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1794737439~acl=/*~id=84062773889577299258218835267010~hmac=2f29a6dcb201b539f6535c31b24e49b7ceea87b344377a177db58df60356defc
+https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1794745008~acl=/*~id=44453595857604037581434819442978~hmac=1c3bd2122a36dfd3131b76515e4a0dcd995d99a29f448f7fc8cf021e935960e8
 #EXTINF:-1 tvg-name="Sony Sports 1" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/20_262.png" group-title="Sony Live",Sony Sports 1
-https://dishmt.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8?hdnea=exp=1794737439~acl=/*~id=84062773889577299258218835267010~hmac=2f29a6dcb201b539f6535c31b24e49b7ceea87b344377a177db58df60356defc
+https://dishmt.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8?hdnea=exp=1794745008~acl=/*~id=44453595857604037581434819442978~hmac=1c3bd2122a36dfd3131b76515e4a0dcd995d99a29f448f7fc8cf021e935960e8
 #EXTINF:-1 tvg-name="Sony Sports 1 HD" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/21_266.png" group-title="Sony Live",Sony Sports 1 HD
-https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1794737439~acl=/*~id=84062773889577299258218835267010~hmac=2f29a6dcb201b539f6535c31b24e49b7ceea87b344377a177db58df60356defc
+https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1794745008~acl=/*~id=44453595857604037581434819442978~hmac=1c3bd2122a36dfd3131b76515e4a0dcd995d99a29f448f7fc8cf021e935960e8
 #EXTINF:-1 tvg-name="Sony Sports 2" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/22_261.png" group-title="Sony Live",Sony Sports 2
-https://dishmt.slivcdn.com/hls/live/2020590/TEN2SD/master.m3u8?hdnea=exp=1794737439~acl=/*~id=84062773889577299258218835267010~hmac=2f29a6dcb201b539f6535c31b24e49b7ceea87b344377a177db58df60356defc
+https://dishmt.slivcdn.com/hls/live/2020590/TEN2SD/master.m3u8?hdnea=exp=1794745008~acl=/*~id=44453595857604037581434819442978~hmac=1c3bd2122a36dfd3131b76515e4a0dcd995d99a29f448f7fc8cf021e935960e8
 #EXTINF:-1 tvg-name="Sony Sports 2 HD" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/23_267.png" group-title="Sony Live",Sony Sports 2 HD
-https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1794737439~acl=/*~id=84062773889577299258218835267010~hmac=2f29a6dcb201b539f6535c31b24e49b7ceea87b344377a177db58df60356defc
+https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1794745008~acl=/*~id=44453595857604037581434819442978~hmac=1c3bd2122a36dfd3131b76515e4a0dcd995d99a29f448f7fc8cf021e935960e8
 #EXTINF:-1 tvg-name="Sony Sports 3 Hindi" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/24_274.png" group-title="Sony Live",Sony Sports 3 Hindi
-https://dishmt.slivcdn.com/hls/live/2020592/TEN3SD/master.m3u8?hdnea=exp=1794737439~acl=/*~id=84062773889577299258218835267010~hmac=2f29a6dcb201b539f6535c31b24e49b7ceea87b344377a177db58df60356defc
+https://dishmt.slivcdn.com/hls/live/2020592/TEN3SD/master.m3u8?hdnea=exp=1794745008~acl=/*~id=44453595857604037581434819442978~hmac=1c3bd2122a36dfd3131b76515e4a0dcd995d99a29f448f7fc8cf021e935960e8
 #EXTINF:-1 tvg-name="Sony Sports 3 Hindi HD" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/25_276.png" group-title="Sony Live",Sony Sports 3 Hindi HD
-https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1794737439~acl=/*~id=84062773889577299258218835267010~hmac=2f29a6dcb201b539f6535c31b24e49b7ceea87b344377a177db58df60356defc
+https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1794745008~acl=/*~id=44453595857604037581434819442978~hmac=1c3bd2122a36dfd3131b76515e4a0dcd995d99a29f448f7fc8cf021e935960e8
 #EXTINF:-1 tvg-name="Sony Sports 4 Tamil" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/38_275.png" group-title="Sony Live",Sony Sports 4 Tamil
-https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8?hdnea=exp=1794737439~acl=/*~id=84062773889577299258218835267010~hmac=2f29a6dcb201b539f6535c31b24e49b7ceea87b344377a177db58df60356defc
+https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8?hdnea=exp=1794745008~acl=/*~id=44453595857604037581434819442978~hmac=1c3bd2122a36dfd3131b76515e4a0dcd995d99a29f448f7fc8cf021e935960e8
 #EXTINF:-1 tvg-name="Sony Sports 4 Telugu" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/39_277.png" group-title="Sony Live",Sony Sports 4 Telugu
-https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1794737439~acl=/*~id=84062773889577299258218835267010~hmac=2f29a6dcb201b539f6535c31b24e49b7ceea87b344377a177db58df60356defc
+https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1794745008~acl=/*~id=44453595857604037581434819442978~hmac=1c3bd2122a36dfd3131b76515e4a0dcd995d99a29f448f7fc8cf021e935960e8
 #EXTINF:-1 tvg-name="Sony Sports 4 Kannada" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/SONY-SPORTS-TEN-4-KANNADA.png" group-title="Sony Live",Sony Sports 4 Kannada
-https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/master.m3u8?hdnea=exp=1794737439~acl=/*~id=84062773889577299258218835267010~hmac=2f29a6dcb201b539f6535c31b24e49b7ceea87b344377a177db58df60356defc
+https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/master.m3u8?hdnea=exp=1794745008~acl=/*~id=44453595857604037581434819442978~hmac=1c3bd2122a36dfd3131b76515e4a0dcd995d99a29f448f7fc8cf021e935960e8
 #EXTINF:-1 tvg-name="Sony Sports 5" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/18_265.png" group-title="Sony Live",Sony Sports 5
-https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8?hdnea=exp=1794737439~acl=/*~id=84062773889577299258218835267010~hmac=2f29a6dcb201b539f6535c31b24e49b7ceea87b344377a177db58df60356defc
+https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8?hdnea=exp=1794745008~acl=/*~id=44453595857604037581434819442978~hmac=1c3bd2122a36dfd3131b76515e4a0dcd995d99a29f448f7fc8cf021e935960e8
 #EXTINF:-1 tvg-name="Sony Sports 5 HD" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/19_270.png" group-title="Sony Live",Sony Sports 5 HD
-https://dishmt.slivcdn.com/hls/live/2020593/TEN5HD/master.m3u8?hdnea=exp=1794737439~acl=/*~id=84062773889577299258218835267010~hmac=2f29a6dcb201b539f6535c31b24e49b7ceea87b344377a177db58df60356defc
-#EXTINF:-1 tvg-name="HIN | Indian Idol - Legends Return @virat10" tvg-id="amzn1.dv.gti.2fda5cd1-0a37-49cf-9303-93d4dd523749" tvg-lang="HINDI" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2fda5cd1-0a37-49cf-9303-93d4dd523749/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Prime Video | Sportlink",HIN | Indian Idol - Legends Return
+https://dishmt.slivcdn.com/hls/live/2020593/TEN5HD/master.m3u8?hdnea=exp=1794745008~acl=/*~id=44453595857604037581434819442978~hmac=1c3bd2122a36dfd3131b76515e4a0dcd995d99a29f448f7fc8cf021e935960e8
+#EXTINF:-1 tvg-name="5th ODI - 15 Nov 2026 [ENG] - India Tour of New Zealand 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 5th ODI - 15 Nov 2026 [ENG] - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794751261~acl=/*~id=64908615434942775949625122244021~hmac=c1c3fd8175e742e05da995e2ff02405f2e6b9769a264201132d7cd516bd70337
+#EXTINF:-1 tvg-name="5th ODI - 15 Nov 2026 [HIN] - India Tour of New Zealand 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 5th ODI - 15 Nov 2026 [HIN] - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794751261~acl=/*~id=64908615434942775949625122244021~hmac=c1c3fd8175e742e05da995e2ff02405f2e6b9769a264201132d7cd516bd70337
+#EXTINF:-1 tvg-name="5th ODI - 15 Nov 2026 [TAM] - India Tour of New Zealand 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 5th ODI - 15 Nov 2026 [TAM] - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794751261~acl=/*~id=64908615434942775949625122244021~hmac=c1c3fd8175e742e05da995e2ff02405f2e6b9769a264201132d7cd516bd70337
+#EXTINF:-1 tvg-name="5th ODI - 15 Nov 2026 [TEL] - India Tour of New Zealand 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 5th ODI - 15 Nov 2026 [TEL] - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794751261~acl=/*~id=64908615434942775949625122244021~hmac=c1c3fd8175e742e05da995e2ff02405f2e6b9769a264201132d7cd516bd70337
+#EXTINF:-1 tvg-name="5th ODI - 15 Nov 2026 [KAN] - India Tour of New Zealand 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 5th ODI - 15 Nov 2026 [KAN] - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794751261~acl=/*~id=64908615434942775949625122244021~hmac=c1c3fd8175e742e05da995e2ff02405f2e6b9769a264201132d7cd516bd70337
+#EXTINF:-1 tvg-name="UFC 334 - Gane vs Hokit - 15 Nov 2026 [ENG] - UFC 334 - Gane vs Hokit @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028975/1794577928244764_UFC-334_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", UFC 334 - Gane vs Hokit - 15 Nov 2026 [ENG] - UFC 334 - Gane vs Hokit
+https://sonyeventsglobal.akamaized.net/hls/live/2120301/UFC_UFC31411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794751261~acl=/*~id=64908615434942775949625122244021~hmac=c1c3fd8175e742e05da995e2ff02405f2e6b9769a264201132d7cd516bd70337
+#EXTINF:-1 tvg-id="B0HKFYV7MD" tvg-name="Womens Big Bash League 2026 - 23rd Match -Sydney Sixers Women vs Melbourne Renegades Women @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.efd1e539-311e-4d71-a615-1e744d8c8d68/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Womens Big Bash League 2026 - 23rd Match -Sydney Sixers Women vs Melbourne Renegades Women
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1f8a6b81514e5243cc85d00effcf384:697893a5e9dbc7916aedd1ac857737b2
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mysvg9964s/out/v1/b7761cc505e84787832b2b55e90bbbf0/cenc.mpd
+#EXTINF:-1 tvg-id="B0HMLW19GT" tvg-name="India tour of New Zealand 2026 - 5th ODI - New Zealand vs India @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2d150b96-e992-43cb-96a8-e4e4b5c08847/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",India tour of New Zealand 2026 - 5th ODI - New Zealand vs India
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a4e1c0452e8620aa47a64c82b81f90d:f11223850b04db47d8815871e6b77d05
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd
+#EXTINF:-1 tvg-name="ENG | 5th ODI - 15 Nov 2026 @virat10" tvg-id="amzn1.dv.gti.293420f6-b5a5-443e-94e0-9160a3b67d70" tvg-lang="ENGLISH" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.293420f6-b5a5-443e-94e0-9160a3b67d70/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Prime Video | Sportlink",ENG | 5th ODI - 15 Nov 2026
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"d3LVkINlq_ZcODN-zdyWSQ","k":"5z-EIMvtMHp7Sx2NjQ2MPQ"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"0sxXEdNoj6S2Oa-cfQ8R8Q","k":"39b671SNJcjk6L0MgeEMrg"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://a201aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ixq7b7vb6k/out/v1/0f2756a79892473b9869131b07422e99/cenc.mpd
-#EXTINF:-1 tvg-name="MAR | Kon Honaar Crorepati @virat10" tvg-id="amzn1.dv.gti.42a1a1a9-c462-4df5-91f2-c54eb72f403b" tvg-lang="MARATHI" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.42a1a1a9-c462-4df5-91f2-c54eb72f403b/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Prime Video | Sportlink",MAR | Kon Honaar Crorepati
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/yqqst5pqux/out/v1/073a062a7b0847ce932d5eadcebc0ac4/cenc.mpd
+#EXTINF:-1 tvg-name="ENG | UFC 334 - Gane vs Hokit - 15 Nov 2026 @virat10" tvg-id="amzn1.dv.gti.29c626f6-037e-48b7-aa00-2d891b67b49f" tvg-lang="ENGLISH" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.29c626f6-037e-48b7-aa00-2d891b67b49f/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Prime Video | Sportlink",ENG | UFC 334 - Gane vs Hokit - 15 Nov 2026
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"xlcMXJXrVIb-h8RSZDbZgA","k":"rNLG7833WuUn0tjvJMawow"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vYaGB5vJHkrgDfwQfUlyFw","k":"HQw85B4M_I3x07ObF9FqKw"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://ABN7NIVAAAAAAAAMLZR65EAI5T3FS.ta.bia-cf.live.pv-cdn.net/sin-nitro/live/clients/dash/enc/4mdzjewvgw/out/v1/5896226d6754406a98f166d2b7afec81/cenc.mpd
-#EXTINF:-1 tvg-name="HIN | Family Full House With Rohit Sharma @virat10" tvg-id="amzn1.dv.gti.869ffa73-4d54-4323-afdd-a21797ea275b" tvg-lang="HINDI" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.869ffa73-4d54-4323-afdd-a21797ea275b/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Prime Video | Sportlink",HIN | Family Full House With Rohit Sharma
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lmpujua31w/out/v1/0e5d2db5f88145df974bd8bd406d31a1/cenc.mpd
+#EXTINF:-1 tvg-name="ENG | 5th ODI - 15 Nov 2026 @virat10" tvg-id="amzn1.dv.gti.0f2fd6e2-8332-4b19-8e6f-2c25c7486c5f" tvg-lang="ENGLISH" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0f2fd6e2-8332-4b19-8e6f-2c25c7486c5f/1/BOXART-16X9/en-US.jpeg" group-title="Prime Video | Sportlink",ENG | 5th ODI - 15 Nov 2026
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"QRVWtT01APTJzmNhE8_XHA","k":"arLbjZbs2OdK467U_4cF2Q"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"0sxXEdNoj6S2Oa-cfQ8R8Q","k":"39b671SNJcjk6L0MgeEMrg"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/xifbprfint/out/v1/3d8160c8e9bc4666b384fd0db663f330/cenc.mpd
+https://ABN7NIVAAAAAAAAMLZR65EAI5T3FS.ta.bia-cf.live.pv-cdn.net/sin-nitro/live/clients/dash/enc/yqqst5pqux/out/v1/073a062a7b0847ce932d5eadcebc0ac4/cenc.mpd
+#EXTINF:-1 tvg-name="TEL | 5th ODI - 15 Nov 2026 @virat10" tvg-id="amzn1.dv.gti.02359833-01e2-4a50-8e31-7586af12e382" tvg-lang="TELUGU" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.02359833-01e2-4a50-8e31-7586af12e382/1/BOXART-16X9/en-US.jpeg" group-title="Prime Video | Sportlink",TEL | 5th ODI - 15 Nov 2026
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"0aP6mEx2_bZWjOmzCq2hUw","k":"NhIb5xmI2hYB3bVIB2sLaQ"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-origin=https://www.primevideo.com
+#EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/zq1p2wg2v4/out/v1/d20147fb10ca4585b1d383987281d95a/cenc.mpd
+#EXTINF:-1 tvg-name="TAM | 5th ODI - 15 Nov 2026 @virat10" tvg-id="amzn1.dv.gti.5aeeda78-f92a-44ba-806a-3770185c4c65" tvg-lang="TAMIL" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5aeeda78-f92a-44ba-806a-3770185c4c65/2/BOXART-16X9/en-US.jpeg" group-title="Prime Video | Sportlink",TAM | 5th ODI - 15 Nov 2026
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"-gX2BsIPdVI8vGjfsfRZBQ","k":"FAsiEZvmANqqK67-SmfpTA"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-origin=https://www.primevideo.com
+#EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
+https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/hzntefvmqf/out/v1/dda005f8228144568e58bbc6afa34e9f/cenc.mpd
+#EXTINF:-1 tvg-name="HIN | 5th ODI - 15 Nov 2026 @virat10" tvg-id="amzn1.dv.gti.be8d0eef-dc60-495e-9fbd-e1715a8bd43a" tvg-lang="HINDI" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.be8d0eef-dc60-495e-9fbd-e1715a8bd43a/1/BOXART-16X9/en-US.jpeg" group-title="Prime Video | Sportlink",HIN | 5th ODI - 15 Nov 2026
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Z4HYbyLvDrxxq9DuJfxMwA","k":"gTFkt5FqjFMcc_ASl-q_Hg"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-origin=https://www.primevideo.com
+#EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
+https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/ys1y6xzhhq/out/v1/b90986bc005e4cc0967c34171788dbe4/cenc.mpd
+#EXTINF:-1 tvg-name="KAN | 5th ODI - 15 Nov 2026 @virat10" tvg-id="amzn1.dv.gti.c2535ae1-c139-4eab-b16a-9b7b0a6fc096" tvg-lang="KANNADA" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c2535ae1-c139-4eab-b16a-9b7b0a6fc096/2/BOXART-16X9/en-US.jpeg" group-title="Prime Video | Sportlink",KAN | 5th ODI - 15 Nov 2026
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ZfEXd13khmmzgfMr-ATN8Q","k":"s8pa-xHgOlXxWK4nf3DMaw"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-origin=https://www.primevideo.com
+#EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/v1hfzfoiij/out/v1/dfebc3fe859a4999b0c20d123549063a/cenc.mpd
+#EXTINF:-1 tvg-name="ENG | UFC 334 - Gane vs Hokit - 15 Nov 2026 @virat10" tvg-id="amzn1.dv.gti.e2e723d4-28cf-4b8a-b82f-ff3b1fa8f9e4" tvg-lang="ENGLISH" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.29c626f6-037e-48b7-aa00-2d891b67b49f/2/BOXART-16X9/en-US.jpeg" group-title="Prime Video | Sportlink",ENG | UFC 334 - Gane vs Hokit - 15 Nov 2026
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vYaGB5vJHkrgDfwQfUlyFw","k":"HQw85B4M_I3x07ObF9FqKw"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-origin=https://www.primevideo.com
+#EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/6nol2apygj/out/v1/9c6dbbf579e34850bf5acd0ea7738807/cenc.mpd
+#EXTINF:-1 tvg-name="HIN | 5th ODI - 15 Nov 2026 @virat10" tvg-id="amzn1.dv.gti.edce12e5-e30b-4cbd-9573-984eb7c32286" tvg-lang="HINDI" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2e4e9e56-6d2a-46fb-a6e3-aa1a140b87fd/3/BOXART-16X9/en-US.jpeg" group-title="Prime Video | Sportlink",HIN | 5th ODI - 15 Nov 2026
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vh8QrqymLaEnqVziT5yhyA","k":"Ga_PuDyfusmztnF3dkdDVg"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-origin=https://www.primevideo.com
+#EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
+https://a100live-pv-ta-amazon.akamaized.net/bom-nitro/live/clients/dash/enc/urcccugwau/out/v1/a9db6d34fd7c475892f37f566feb5d14/cenc.mpd
 #EXTINF:-1 tvg-name="Bigboss 24/7 live-HINDI @virat10" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/2305/1788708712305-h.jpg" group-title="Jio Hotstar | Sportlink", Bigboss 24/7 live-HINDI
 #EXTVLCOPT:http-user-agent=Virat Kohli
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
