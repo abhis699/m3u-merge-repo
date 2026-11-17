@@ -45,30 +45,52 @@ https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/master.m3u8?hdnea=exp=17949
 https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8?hdnea=exp=1794936316~acl=/*~id=68398877350567470878281122014357~hmac=e6d1e0cf90d4e424eaaba11e0eea7a56b20ca76dee51cb3028652c61521797b4
 #EXTINF:-1 tvg-name="Sony Sports 5 HD" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/19_270.png" group-title="Sony Live",Sony Sports 5 HD
 https://dishmt.slivcdn.com/hls/live/2020593/TEN5HD/master.m3u8?hdnea=exp=1794936316~acl=/*~id=68398877350567470878281122014357~hmac=e6d1e0cf90d4e424eaaba11e0eea7a56b20ca76dee51cb3028652c61521797b4
-#EXTINF:-1 tvg-id="B0HKZY847Z" tvg-name="Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5d1b6f08-0201-4db4-96bd-f867f7348b30/6/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka
+#EXTINF:-1 tvg-name="Wales vs Portugal - 18 Nov 2026 [ENG] - UEFA Nations League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027861/1793276874509801_UNL26_MD6_Wales_vs_Portugal_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Wales vs Portugal - 18 Nov 2026 [ENG] - UEFA Nations League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120306/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794986658~acl=/*~id=80571418054483001863017419287413~hmac=9c33ec30b3b2e3dc6dd7629c023bdd8e5710625c0f82c3cfc8b1c92b3456117c
+#EXTINF:-1 tvg-name="Denmark vs Norway - 18 Nov 2026 [ENG] - UEFA Nations League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027760/1793276088016324_UNL26_MD6_Denmark_vs_Norway_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Denmark vs Norway - 18 Nov 2026 [ENG] - UEFA Nations League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120304/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794986658~acl=/*~id=80571418054483001863017419287413~hmac=9c33ec30b3b2e3dc6dd7629c023bdd8e5710625c0f82c3cfc8b1c92b3456117c
+#EXTINF:-1 tvg-name="Poland vs Sweden - 18 Nov 2026 [ENG] - UEFA Nations League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027838/1793278288283702_UNL26_MD6_Poland_vs_Sweden_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Poland vs Sweden - 18 Nov 2026 [ENG] - UEFA Nations League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120300/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794986658~acl=/*~id=80571418054483001863017419287413~hmac=9c33ec30b3b2e3dc6dd7629c023bdd8e5710625c0f82c3cfc8b1c92b3456117c
+#EXTINF:-1 tvg-name="Hungary vs Northern Ireland - 18 Nov 2026 [ENG] - UEFA Nations League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027786/1793277383846311_UNL26_MD6_Hungary_vs_Northern_Ireland_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Hungary vs Northern Ireland - 18 Nov 2026 [ENG] - UEFA Nations League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120307/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794986658~acl=/*~id=80571418054483001863017419287413~hmac=9c33ec30b3b2e3dc6dd7629c023bdd8e5710625c0f82c3cfc8b1c92b3456117c
+#EXTINF:-1 tvg-name="Israel vs Austria - 18 Nov 2026 [ENG] - UEFA Nations League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027800/1793274260999331_UNL26_MD6_Israel_vs_Austria_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Israel vs Austria - 18 Nov 2026 [ENG] - UEFA Nations League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794986658~acl=/*~id=80571418054483001863017419287413~hmac=9c33ec30b3b2e3dc6dd7629c023bdd8e5710625c0f82c3cfc8b1c92b3456117c
+#EXTINF:-1 tvg-name="Bosnia and Herzegovina vs Romania - 18 Nov 2026 [ENG] - UEFA Nations League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027750/179327471209337_UNL26_MD6_Bosnia_and_Herzegovina_vs_Romania_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Bosnia and Herzegovina vs Romania - 18 Nov 2026 [ENG] - UEFA Nations League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794986658~acl=/*~id=80571418054483001863017419287413~hmac=9c33ec30b3b2e3dc6dd7629c023bdd8e5710625c0f82c3cfc8b1c92b3456117c
+#EXTINF:-1 tvg-name="Ukraine vs Georgia - 18 Nov 2026 [ENG] - UEFA Nations League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027856/1793275459151772_UNL26_MD6_Ukraine_vs_Georgia_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Ukraine vs Georgia - 18 Nov 2026 [ENG] - UEFA Nations League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794986658~acl=/*~id=80571418054483001863017419287413~hmac=9c33ec30b3b2e3dc6dd7629c023bdd8e5710625c0f82c3cfc8b1c92b3456117c
+#EXTINF:-1 tvg-name="Republic of Ireland vs Kosovo - 18 Nov 2026 [ENG] - UEFA Nations League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027853/1793278711572629_UNL26_MD6_Republic_of_Ireland_vs_Kosovo_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Republic of Ireland vs Kosovo - 18 Nov 2026 [ENG] - UEFA Nations League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120308/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794986658~acl=/*~id=80571418054483001863017419287413~hmac=9c33ec30b3b2e3dc6dd7629c023bdd8e5710625c0f82c3cfc8b1c92b3456117c
+#EXTINF:-1 tvg-name="ENG | NBA TV International: Basketcast: Basketcast  S2 Eps. 33 @virat10" tvg-id="amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8" tvg-lang="ENGLISH" tvg-logo="https://m.media-amazon.com/images/I/71OAQPUqfXL.jpg" group-title="Prime Video | Sportlink",ENG | NBA TV International: Basketcast: Basketcast  S2 Eps. 33
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=717e39c4207ef6bd6a1a495fb2e3b133:f9f666cac7de2e2d69bd42e8fcd06ad7
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9egdiddjjq/out/v1/515443d95d6c4eb9b908f641e8622f89/cenc.mpd
-#EXTINF:-1 tvg-id="B0HP83ZWBB" tvg-name="Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c946453d-7025-4e95-9564-d2a336954242/7/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Da-mcst2q5P9xtPY18Hqog","k":"eLKrJNiNns2yRjFz38GUXw"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-origin=https://www.primevideo.com
+#EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/kx7abkoz8y/out/v1/cb43624f6eb9424c9bfdd60ceea06549/cenc.mpd
+#EXTINF:-1 tvg-name="ENG | FanCode 2: Afghanistan tour of Zimbabwe 2024-25 @virat10" tvg-id="amzn1.dv.gti.0a5edca3-abc6-4a35-893d-2a9749426588" tvg-lang="ENGLISH" tvg-logo="https://m.media-amazon.com/images/I/B1XS9ojtynL.jpg" group-title="Prime Video | Sportlink",ENG | FanCode 2: Afghanistan tour of Zimbabwe 2024-25
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f780c2f1d5a79df25cbf84c3100ae9db:147c4e675e69a128ed783faf67a5b72c
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qsiyy3pj1z/out/v1/18e7e922d8f44a768c404c3304bbf8ee/cenc.mpd
-#EXTINF:-1 tvg-id="B0HRNBGJB1" tvg-name="Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3d3a187e-ae33-416b-bc6b-02cd63444282/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"GZSx3339LoqNe5vz-5AChQ","k":"IqFESz2hjhORkWZbPWUoNQ"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-origin=https://www.primevideo.com
+#EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+#EXTINF:-1 tvg-name="ENG | FanCode 1: Afghanistan tour of Zimbabwe 2024-25 @virat10" tvg-id="amzn1.dv.gti.bdbce98b-62eb-44c7-b647-c1818b86ef6c" tvg-lang="ENGLISH" tvg-logo="https://m.media-amazon.com/images/I/B1XS9ojtynL.jpg" group-title="Prime Video | Sportlink",ENG | FanCode 1: Afghanistan tour of Zimbabwe 2024-25
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hprkqhtdlv/out/v1/7aa42b34cf6d4ec1b3fa841404c162d6/cenc.mpd
-#EXTINF:-1 tvg-id="B0HKV1DFSC" tvg-name="Womens Big Bash League 2026 - 25th Match - Adelaide Strikers Women vs Sydney Sixers Women @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6f72b480-caa0-46f3-9110-f321e92fbb47/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Womens Big Bash League 2026 - 25th Match - Adelaide Strikers Women vs Sydney Sixers Women
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82ea980c6b72eb9d845d3bb239330c30:e205798bb1646f1e0ab0ee3459b084bf
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jyqp4rh7ty/out/v1/a61e5db610214d8ab29de73c6750d65d/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gt_KI46MS0MKMmnbcZZduQ","k":"oAsoyvSsYo53pVPUQMDdyg"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-origin=https://www.primevideo.com
+#EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/a99uhtrbys/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd
 #EXTINF:-1 tvg-name="Bigboss 24/7 live-HINDI @virat10" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/2305/1788708712305-h.jpg" group-title="Jio Hotstar | Sportlink", Bigboss 24/7 live-HINDI
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
